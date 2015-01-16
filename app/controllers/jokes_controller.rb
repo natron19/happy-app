@@ -28,6 +28,7 @@ class JokesController < ApplicationController
 
     respond_to do |format|
       if @joke.save
+        #changing the redirect to go back to new joke
         format.html { redirect_to new_joke_path, notice: 'Joke was successfully created.' }
         format.json { render :show, status: :created, location: @joke }
       else
