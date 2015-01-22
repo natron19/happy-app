@@ -32,7 +32,7 @@ class JokesController < ApplicationController
         format.html { redirect_to new_joke_path, notice: 'Joke was successfully created.' }
         format.json { render :show, status: :created, location: @joke }
       else
-        format.html { render :new}
+        format.html { render :new, notice: "This is a problem"}
         format.json { render json: @joke.errors, status: :unprocessable_entity }
       end
     end
