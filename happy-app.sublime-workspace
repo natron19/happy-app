@@ -119,21 +119,17 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "happy-app",
-			"settings":
-			{
-				"buffer_size": 0,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 167.0,
+		"height": 392.0,
 		"selected_items":
 		[
+			[
+				"sa",
+				"Project: Save As"
+			],
 			[
 				"save",
 				"Project: Save As"
@@ -204,12 +200,41 @@
 	},
 	"file_history":
 	[
+		"/Users/nathanrohm/code/etsydemo/app/views/layouts/application.html.erb",
+		"/Users/nathanrohm/code/etsydemo/app/controllers/listings_controller.rb",
+		"/Users/nathanrohm/code/etsydemo/app/views/listings/seller.html.erb",
+		"/Users/nathanrohm/code/etsydemo/app/views/listings/index.html.erb",
+		"/Users/nathanrohm/code/etsydemo/app/assets/stylesheets/application.css.scss",
+		"/Users/nathanrohm/code/etsydemo/app/assets/stylesheets/custom.css.scss",
+		"/Users/nathanrohm/code/etsydemo/app/views/layouts/_header.html.erb",
+		"/Users/nathanrohm/code/etsydemo/config/routes.rb",
+		"/Users/nathanrohm/code/etsydemo/app/controllers/application_controller.rb",
+		"/Users/nathanrohm/Dropbox/UWRailsCert/projects/happy-app/app/views/layouts/_buttons.html.erb",
+		"/Users/nathanrohm/Dropbox/UWRailsCert/projects/happy-app/app/views/home/index.html.erb",
+		"/Users/nathanrohm/Dropbox/UWRailsCert/projects/happy-app/app/views/home/_buttons.html.erb",
+		"/Users/nathanrohm/Dropbox/UWRailsCert/projects/happy-app/app/views/layouts/application.html.erb",
+		"/Users/nathanrohm/Dropbox/UWRailsCert/projects/happy-app/app/views/quotes/edit.html.erb",
+		"/Users/nathanrohm/Dropbox/UWRailsCert/projects/happy-app/config/routes.rb",
+		"/Users/nathanrohm/Dropbox/UWRailsCert/projects/happy-app/app/controllers/home_controller.rb",
+		"/Users/nathanrohm/Dropbox/UWRailsCert/projects/happy-app/db/schema.rb",
+		"/Users/nathanrohm/Dropbox/UWRailsCert/projects/happy-app/app/views/quotes/show.html.erb",
+		"/Users/nathanrohm/Dropbox/UWRailsCert/projects/happy-app/app/views/jokes/show.html.erb",
+		"/Users/nathanrohm/Dropbox/UWRailsCert/projects/happy-app/app/views/jokes/_form.html.erb",
+		"/Users/nathanrohm/Dropbox/UWRailsCert/projects/happy-app/app/views/quotes/_form.html.erb",
+		"/Users/nathanrohm/Dropbox/UWRailsCert/projects/simple-site/simple-site/README.md",
+		"/Users/nathanrohm/Dropbox/UWRailsCert/projects/happy-app/app/views/jokes/index.html.erb",
+		"/Users/nathanrohm/Dropbox/UWRailsCert/projects/happy-app/app/views/quotes/index.html.erb",
+		"/Users/nathanrohm/Dropbox/UWRailsCert/projects/happy-app/app/views/jokes/_joke.html.erb",
+		"/Users/nathanrohm/Dropbox/UWRailsCert/projects/happy-app/app/controllers/quotes_controller.rb",
+		"/Users/nathanrohm/Dropbox/UWRailsCert/projects/happy-app/app/views/quotes/_quote.html.erb",
+		"/Users/nathanrohm/Dropbox/UWRailsCert/projects/happy-app/app/views/index.html.erb",
+		"/Users/nathanrohm/Dropbox/UWRailsCert/projects/happy-app/app/views/quotes/index.json.jbuilder",
+		"/Users/nathanrohm/Dropbox/UWRailsCert/projects/happy-app/happy-app",
 		"/Users/nathanrohm/code/etsydemo/config/initializers/devise.rb",
 		"/Users/nathanrohm/code/etsydemo/app/models/listing.rb",
 		"/Users/nathanrohm/code/etsydemo/app/models/user.rb",
 		"/Users/nathanrohm/code/etsydemo/test/models/user_test.rb",
 		"/Users/nathanrohm/code/etsydemo/app/views/devise/registrations/new.html.erb",
-		"/Users/nathanrohm/code/etsydemo/app/controllers/application_controller.rb",
 		"/Users/nathanrohm/code/etsydemo/app/views/devise/registrations/edit.html.erb",
 		"/Users/nathanrohm/code/etsydemo/Gemfile",
 		"/Users/nathanrohm/Dropbox/UWRailsCert/railsbridge/suggestotron/app/views/pages/about.html.erb",
@@ -302,36 +327,7 @@
 		"/Users/nathanrohm/Dropbox/PragmaticStudio/Rails1/rails_studio/flix/app/views/movies/index.html.erb",
 		"/Users/nathanrohm/Dropbox/PragmaticStudio/Rails1/rails_studio/flix/app/helpers/movies_helper.rb",
 		"/Users/nathanrohm/Dropbox/PragmaticStudio/Rails1/rails_studio/flix/app/controllers/movies_controller.rb",
-		"/Users/nathanrohm/Dropbox/PragmaticStudio/Rails1/rails_studio/flix/spec/support/attributes.rb",
-		"/Users/nathanrohm/Dropbox/PragmaticStudio/Rails1/rails_studio/flix/db/seeds.rb",
-		"/Users/nathanrohm/Dropbox/PragmaticStudio/Rails1/rails_studio/flix/app/controllers/application_controller.rb",
-		"/Users/nathanrohm/Dropbox/PragmaticStudio/Rails1/rails_studio/flix/spec/features/create_movie_spec.rb",
-		"/Users/nathanrohm/Dropbox/PragmaticStudio/Rails1/rails_studio/flix/config/routes.rb",
-		"/Users/nathanrohm/Dropbox/PragmaticStudio/Rails1/rails_studio/flix/spec/features/delete_movie_spec.rb",
-		"/Users/nathanrohm/Dropbox/PragmaticStudio/Rails1/rails_studio/flix/spec/features/list_movies_spec.rb",
-		"/Users/nathanrohm/Dropbox/PragmaticStudio/Rails1/rails_studio/flix/spec/models/movie_spec.rb",
-		"/Users/nathanrohm/Dropbox/PragmaticStudio/Rails1/rails_studio/flix/app/models/movie.rb",
-		"/Users/nathanrohm/Dropbox/PragmaticStudio/Rails1/rails_studio/flix/app/views/movies/_footer.html.erb",
-		"/Users/nathanrohm/Dropbox/PragmaticStudio/Rails1/rails_studio/flix/spec/features/edit_movie_spec.rb",
-		"/Users/nathanrohm/Dropbox/PragmaticStudio/Rails1/rails_studio/flix/config/initializers/date_formats.rb",
-		"/Users/nathanrohm/Dropbox/PragmaticStudio/Rails1/rails_studio/flix/spec/spec_helper.rb",
-		"/Users/nathanrohm/Dropbox/PragmaticStudio/Rails1/rails_studio/flix/spec/features/navigate_movies_spec.rb",
-		"/Users/nathanrohm/Dropbox/PragmaticStudio/Rails1/rails_studio/flix/spec/support",
-		"/Users/nathanrohm/Dropbox/PragmaticStudio/Rails1/rails_studio/flix/.rspec",
-		"/Users/nathanrohm/Dropbox/PragmaticStudio/Rails1/rails_studio/flix/spec/features/list_events_spec.rb",
-		"/Users/nathanrohm/Dropbox/PragmaticStudio/Rails1/events/events/config/routes.rb",
-		"/Users/nathanrohm/Dropbox/PragmaticStudio/Rails1/events/events/app/views/events/index.html.erb",
-		"/Users/nathanrohm/Dropbox/PragmaticStudio/Rails1/events/events/app/views/events/show.html.erb",
-		"/Users/nathanrohm/Dropbox/PragmaticStudio/Rails1/events/events/app/controllers/events_controller.rb",
-		"/Users/nathanrohm/Dropbox/PragmaticStudio/Rails1/rails_studio/flix/db/migrate/20141219235240_create_movies.rb",
-		"/Users/nathanrohm/Dropbox/PragmaticStudio/Rails1/rails_studio/flix/db/migrate/20141220191312_add_fields_to_movies.rb",
-		"/Users/nathanrohm/Dropbox/PragmaticStudio/Rails1/rails_studio/flix/app/controllers/events_controller.rb",
-		"/Users/nathanrohm/Dropbox/PragmaticStudio/Rails1/rails_studio/flix/app/views/events/index.html.erb",
-		"/Users/nathanrohm/Dropbox/PragmaticStudio/Blocks/flyer.rb",
-		"/Users/nathanrohm/Dropbox/PragmaticStudio/Blocks/deal.rb",
-		"/Users/nathanrohm/Dropbox/PragmaticStudio/Blocks/debug.rb",
-		"/Users/nathanrohm/Dropbox/PragmaticStudio/Blocks/flyer-status.rb",
-		"/Users/nathanrohm/Library/Application Support/Sublime Text 2/Packages/User/Fetch.sublime-settings"
+		"/Users/nathanrohm/Dropbox/PragmaticStudio/Rails1/rails_studio/flix/spec/support/attributes.rb"
 	],
 	"find":
 	{
@@ -417,35 +413,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "happy-app",
-					"settings":
-					{
-						"buffer_size": 0,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -495,20 +464,52 @@
 		"selected_items":
 		[
 			[
+				"custom",
+				"app/assets/stylesheets/custom.css.scss"
+			],
+			[
+				"seller",
+				"app/views/listings/seller.html.erb"
+			],
+			[
+				"index",
+				"app/views/listings/index.html.erb"
+			],
+			[
+				"listings",
+				"app/controllers/listings_controller.rb"
+			],
+			[
+				"inde",
+				"app/views/listings/index.html.erb"
+			],
+			[
+				"controller",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"routes",
+				"config/routes.rb"
+			],
+			[
+				"show",
+				"app/views/listings/show.html.erb"
+			],
+			[
+				"appli",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"database",
+				"config/database.yml"
+			],
+			[
 				"new",
 				"app/views/jokes/new.html.erb"
 			],
 			[
-				"show",
-				"app/views/jokes/show.html.erb"
-			],
-			[
 				"jokes",
 				"app/controllers/jokes_controller.rb"
-			],
-			[
-				"inde",
-				"app/views/jokes/index.html.erb"
 			],
 			[
 				"list",
@@ -537,18 +538,6 @@
 			[
 				"view",
 				"app/views/topics/index.html.erb"
-			],
-			[
-				"index",
-				"app/views/topics/index.html.erb"
-			],
-			[
-				"routes",
-				"config/routes.rb"
-			],
-			[
-				"controller",
-				"app/controllers/topics_controller.rb"
 			],
 			[
 				"likes",
@@ -617,10 +606,6 @@
 			[
 				"maker",
 				"db/migrate/20150103193654_make_reviews_a_join_table.rb"
-			],
-			[
-				"appli",
-				"app/controllers/application_controller.rb"
 			],
 			[
 				"sessions",
